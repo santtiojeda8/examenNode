@@ -1,0 +1,21 @@
+{
+  "name": "examennode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santtiojeda8/examenNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santtiojeda8/examenNode/issues"
+  },
+  "homepage": "https://github.com/santtiojeda8/examenNode#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
